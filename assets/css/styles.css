@@ -170,6 +170,11 @@ a.dotted-link:hover {
   margin-top: 8px;
 }
 
+.header .profile-content .social a img {
+  font-size: 20px;
+  margin-top: 8px;
+}
+
 /* ======= Sections======= */
 .section {
   margin-bottom: 30px;
